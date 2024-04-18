@@ -1,4 +1,5 @@
-﻿namespace Fundementals;
+﻿
+namespace Fundementals;
 
 public class UniqueNumberInArray
 {
