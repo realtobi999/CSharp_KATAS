@@ -12,6 +12,7 @@ public class ListFilterer
         Řešení:
             We create the result list and then loop over the original list
             and add only numbers that are bigger or equal to zero
+            Time Complexity: O(n)
     */
    public static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
    {
