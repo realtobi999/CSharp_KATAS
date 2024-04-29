@@ -1,4 +1,4 @@
-﻿namespace Fundementals;
+﻿namespace Fundamentals;
 
 public class ConsecutiveStringsKata
 {
